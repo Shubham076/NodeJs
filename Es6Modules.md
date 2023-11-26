@@ -68,3 +68,4 @@ In ES6 modules, you can import values from other modules using the `import` keyw
     // Importing both named and default exports
     import someValue, { a, b } from './module';
     ```
+- in this example `somvalue` is nothing but an alias for default key in the object exported from the module
